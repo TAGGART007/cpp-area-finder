@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571117926 source:d:\c++\areafinder\main.cpp
+	<iostream>
+	"area.cpp"
+
+1571118007 d:\c++\areafinder\area.cpp
+	<iostream>
+	"area.h"
+
+1571117928 d:\c++\areafinder\area.h
+
